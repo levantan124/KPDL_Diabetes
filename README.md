@@ -1,8 +1,8 @@
 # Phân Tích và Dự Đoán Bệnh Tiểu Đường
 
 ## Tổng Quan Dự Án
-Dự án này thực hiện phân tích toàn diện về tỷ lệ mắc bệnh tiểu đường sử dụng tập dữ liệu CSV. Mục tiêu là hiểu các yếu tố chính góp phần vào bệnh tiểu đường và xây dựng các mô hình dự đoán để chẩn đoán sớm. Dự án sử dụng Google Colab để trích xuất, làm sạch và đánh giá dữ liệu.
-
+Dự án này thực hiện phân tích toàn diện về tỷ lệ mắc bệnh tiểu đường sử dụng tập dữ liệu CSV được lấy trên Kaggle. Mục tiêu là hiểu các yếu tố chính góp phần vào bệnh tiểu đường và xây dựng các mô hình dự đoán để chẩn đoán sớm. Dự án sử dụng Google Colab để trích xuất, làm sạch và đánh giá dữ liệu.
+Link: https://www.kaggle.com/code/alexteboul/diabetes-health-indicators-dataset-notebook/notebook
 ## Trách Nhiệm Chính
 - **Thu Thập Dữ Liệu:** Thu thập và nhập dữ liệu liên quan đến bệnh tiểu đường từ tệp CSV vào Google Colab.
 - **Dọn Dẹp Dữ Liệu:** Thực hiện dọn dẹp dữ liệu bao gồm xử lý các giá trị bị thiếu, loại bỏ dữ liệu trùng lặp và chuẩn hóa dữ liệu để đảm bảo tính chính xác và độ tin cậy.
