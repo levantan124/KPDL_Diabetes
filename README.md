@@ -24,4 +24,5 @@ Dự án này thực hiện phân tích toàn diện về tỷ lệ mắc bệnh
 - **Xử Lý Dữ Liệu:** CSV
 
 ## Kết Quả
-Dự án cung cấp một khuôn khổ mạnh mẽ để dự đoán nguy cơ mắc bệnh tiểu đường và đóng góp những hiểu biết có giá trị cho các biện pháp can thiệp sớm và phòng ngừa trong quản lý bệnh tiểu đường. Kết quả được trình bày qua các báo cáo và hình ảnh chi tiết, làm nổi bật các yếu tố quan trọng ảnh hưởng đến bệnh tiểu đường và hiệu quả của mô hình dự đoán.
+Dự án cung cấp một khuôn khổ mạnh mẽ để dự đoán nguy cơ mắc bệnh tiểu đường và đóng góp những hiểu biết có giá trị cho các biện pháp can thiệp sớm và phòng ngừa trong quản lý bệnh tiểu đường. 
+Kết quả được trình bày qua các báo cáo và hình ảnh chi tiết, làm nổi bật các yếu tố quan trọng ảnh hưởng đến bệnh tiểu đường và hiệu quả của mô hình dự đoán.
